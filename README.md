@@ -29,8 +29,19 @@ Trough development I can also express my creativity trough the stuff I make.
 ![CSS Logo](/images/css3.svg)
 ![Javascript Logo](/images/javascript.svg)
 ![ReactJS Logo](/images/reactjs.svg)
-![Typescript Logo](/images/typescript.svg)
 ![React-Native Logo](/images/react-native.svg)
+![Typescript Logo](/images/typescript.svg)
+![C#](/images/c#.svg)
+![Firebase](/images/firebase.svg)
+![Jest](/images/jest.svg)
+![Node JS](/images/nodejs.svg)
+![Material UI](/images/materialui.svg)
+![Tailwind](/images/tailwind.svg)
+![Vite JS](/images/vitejs.svg)
+
+## 💻 Platforms
+![Android Logo](/images/android.svg)
+![Apple Logo](/images/apple.svg)
 
 ---
 
