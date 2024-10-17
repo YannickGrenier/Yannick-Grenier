@@ -2,11 +2,12 @@
 
 # 🖖 Hey dev! Welcome to my profile
 
-I'm a full stack JavaScript developer!
+I'm a full stack JS/TS developer!
 
-I've been working ssince 2023, and during this time I worked with diverse types of projects like web programming, app programming and backend programming.
+I've been working since 2023, and during this time I worked with diverse types of projects like web programming, app programming and backend programming.
 
-What made me fall in love with development is the capability to create intresting programs that make other lives easiser.
+What made me fall in love with development is the capability to create intresting stuff that make other lives easier.
+Trough development I can also express my creativity trough the stuff I make.
 
 ## 👨🏻‍💻 About me
 
