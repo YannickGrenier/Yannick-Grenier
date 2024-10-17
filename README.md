@@ -21,9 +21,6 @@ What made me fall in love with development is the capability to create intrestin
 
 <br>
 <br>
-<br>
-<br>
-<br>
 
 ## 💻 Tech stack
 
