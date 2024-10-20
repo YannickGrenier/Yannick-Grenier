@@ -2,7 +2,7 @@
 
 I'm a full stack JS/TS developer!
 
-I've been working since 2023, and during this time I worked with diverse types of projects like web programming, app programming and backend programming.
+I've been studying IT since 2018 and working since 2023 @ <a href="https://www.idealsystems.be/">Ideal Systems</a>, during all this time I've worked with diverse types of projects like web, app and backend programming with different tech stacks.
 
 What made me fall in love with development is the capability to create intresting stuff that make other lives easier.
 Trough development I can also express my creativity trough the stuff I make.
