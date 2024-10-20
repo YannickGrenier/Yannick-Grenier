@@ -13,14 +13,11 @@ Trough development I can also express my creativity trough the stuff I make.
 
 <br>
 
-<img src="./images/message.gif" width="300px" align="right">
-
 - 🌎 I'm from Belgium
 - 👾 Love sharing knowledge
 - 🍜 Gymrat & Foodie
 - 📧 Reach me via yannick.grenier@hotmail.be
 
-<br>
 <br>
 
 ## 💻 Tech stack
