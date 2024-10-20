@@ -20,6 +20,7 @@ Trough development I can also express my creativity trough the stuff I make.
 
 ## 💻 Tech stack
 
+<div style="display: flex; gap: 8">
 <img src="/images/html5.svg" width="50" title="HTML5" alt="HTML5 Icon"/>
 <img src="/images/css3.svg" width="50" title="CSS" alt="CSS Icon"/>
 <img src="/images/javascript.svg" width="50" title="JS" alt="JS Icon"/>
@@ -30,7 +31,9 @@ Trough development I can also express my creativity trough the stuff I make.
 <img src="/images/firebase.svg" width="50" title="Firebase" alt="Firebase Icon"/>
 <img src="/images/materialui.svg" width="50" title="Material UI" alt="Material UI Icon"/>
 <img src="/images/tailwind.svg" width="50" title="Tailwind" alt="Tailwind Icon"/>
-<img src="/images/vite.svg" width="50" title="Vite" alt="Vite Icon"/>
+<img src="/images/vite.svg" width="50" title="Vite" alt="Vite Icon"/>  
+</div>
+
 
 ## 💻 Platforms
 
