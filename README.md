@@ -31,7 +31,7 @@ Trough development I can also express my creativity trough the stuff I make.
 <img src="/images/firebase.svg" width="50" title="Firebase" alt="Firebase Icon"/>
 <img src="/images/materialui.svg" width="50" title="Material UI" alt="Material UI Icon"/>
 <img src="/images/tailwind.svg" width="50" title="Tailwind" alt="Tailwind Icon"/>
-<img src="/images/vite.svg" width="50" title="Vite" alt="Vite Icon"/>  
+<img src="/images/vitejs.svg" width="50" title="Vite" alt="Vite Icon"/>  
 </div>
 
 
