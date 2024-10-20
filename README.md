@@ -1,5 +1,3 @@
-<img src="./images/computer.gif" width="100%"/>
-
 # 🖖 Hey dev! Welcome to my profile
 
 I'm a full stack JS/TS developer!
