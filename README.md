@@ -20,26 +20,27 @@ Trough development I can also express my creativity trough the stuff I make.
 
 ## 💻 Tech stack
 
-<div style="display: flex; gap: 8">
-<img src="/images/html5.svg" width="50" title="HTML5" alt="HTML5 Icon"/>
-<img src="/images/css3.svg" width="50" title="CSS" alt="CSS Icon"/>
-<img src="/images/javascript.svg" width="50" title="JS" alt="JS Icon"/>
-<img src="/images/reactjs.svg" width="50" title="ReactJS" alt="ReactJS Icon"/>
-<img src="/images/react-native.svg" width="50" title="RN" alt="React Native Icon"/>
-<img src="/images/typescript.svg" width="50" title="TypeScript" alt="TypeScript Icon"/>
-<img src="/images/c#.svg" width="50" title="C#" alt="C# Icon"/>
-<img src="/images/firebase.svg" width="50" title="Firebase" alt="Firebase Icon"/>
-<img src="/images/materialui.svg" width="50" title="Material UI" alt="Material UI Icon"/>
-<img src="/images/tailwind.svg" width="50" title="Tailwind" alt="Tailwind Icon"/>
-<img src="/images/vitejs.svg" width="50" title="Vite" alt="Vite Icon"/>  
+<div style="display: flex; gap: 12">
+  <img src="/images/html5.svg" width="50" title="HTML5" alt="HTML5 Icon"/>
+  <img src="/images/css3.svg" width="50" title="CSS" alt="CSS Icon"/>
+  <img src="/images/javascript.svg" width="50" title="JS" alt="JS Icon"/>
+  <img src="/images/reactjs.svg" width="50" title="ReactJS" alt="ReactJS Icon"/>
+  <img src="/images/react-native.svg" width="50" title="RN" alt="React Native Icon"/>
+  <img src="/images/typescript.svg" width="50" title="TypeScript" alt="TypeScript Icon"/>
+  <img src="/images/csharp.svg" width="50" title="C#" alt="C# Icon"/>
+  <img src="/images/firebase.svg" width="50" title="Firebase" alt="Firebase Icon"/>
+  <img src="/images/materialui.svg" width="50" title="Material UI" alt="Material UI Icon"/>
+  <img src="/images/tailwind.svg" width="50" title="Tailwind" alt="Tailwind Icon"/>
+  <img src="/images/vitejs.svg" width="50" title="Vite" alt="Vite Icon"/>  
 </div>
 
 
 ## 💻 Platforms
 
-<img src="/images/android.svg" width="50" title="Android" alt="Android Icon"/>
-<img src="/images/apple.svg" width="50" title="Apple" alt="Apple Icon"/>
-
+<div style="display: flex; gap: 12">
+  <img src="/images/android.svg" width="50" title="Android" alt="Android Icon"/>
+  <img src="/images/apple.svg" width="50" title="Apple" alt="Apple Icon"/>
+</div>
 ---
 
 <p align="center" > 
