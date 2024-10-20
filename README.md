@@ -36,6 +36,9 @@ Trough development I can also express my creativity trough the stuff I make.
   <img src="/images/mysql.svg" width="50" title="Firebase" alt="Firebase Icon"/>
   <img src="/images/aws.svg" width="50" title="AWS" alt="AWS Icon"/>
   <img src="/images/python.svg" width="50" title="Python" alt="Python Icon"/>
+  <img src="/images/reactquery.svg" width="50" title="React Query" alt="React Query Icon"/>
+  <img src="/images/zustand.svg" width="50" title="Zustand" alt="Zustand Icon"/>
+  <img src="/images/Shadcn.svg" width="50" title="Shadcn" alt="Shadcn Icon"/>
 </div>
 
 <br>
