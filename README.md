@@ -26,13 +26,13 @@ Trough development I can also express my creativity trough the stuff I make.
   <img src="/images/javascript.svg" width="50" title="JS" alt="JS Icon"/>
   <img src="/images/reactjs.svg" width="50" title="ReactJS" alt="ReactJS Icon"/>
   <img src="/images/vitejs.svg" width="50" title="Vite" alt="Vite Icon"/>
-  <img src="/images/react-native.svg" width="50" title="RN" alt="React Native Icon"/>
+  <img src="/images/react-native.svg" width="50" title="React Native" alt="React Native Icon"/>
   <img src="/images/typescript.svg" width="50" title="TypeScript" alt="TypeScript Icon"/>
   <img src="/images/csharp.svg" width="50" title="C#" alt="C# Icon"/>
   <img src="/images/materialui.svg" width="50" title="Material UI" alt="Material UI Icon"/>
   <img src="/images/tailwind.svg" width="50" title="Tailwind" alt="Tailwind Icon"/>
   <img src="/images/redux.svg" width="50" title="Redux" alt="Redux Icon"/>
-  <img src="/images/xcode.svg" width="50" title="Vite" alt="Vite Icon"/>
+  <img src="/images/xcode.svg" width="50" title="XCode" alt="XCode Icon"/>
   <img src="/images/mysql.svg" width="50" title="Firebase" alt="Firebase Icon"/>
   <img src="/images/aws.svg" width="50" title="AWS" alt="AWS Icon"/>
   <img src="/images/python.svg" width="50" title="Python" alt="Python Icon"/>
