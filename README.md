@@ -38,6 +38,9 @@ Trough development I can also express my creativity trough the stuff I make.
   <img src="/images/python.svg" width="50" title="Python" alt="Python Icon"/>
 </div>
 
+<br>
+<br>
+
 <p align="center" > 
   <i>Thanks for passing by</i><br><br>
   <i>Feel free to connect with me</i><br><br>
