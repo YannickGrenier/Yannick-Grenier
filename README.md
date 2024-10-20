@@ -18,7 +18,7 @@ Trough development I can also express my creativity trough the stuff I make.
 
 <br>
 
-## 💻 Everything I've touched
+## 💻 Tech stack
 
 <div style="display: flex; gap: 12; max-width: 400">
   <img src="/images/html5.svg" width="50" title="HTML5" alt="HTML5 Icon"/>
@@ -32,13 +32,12 @@ Trough development I can also express my creativity trough the stuff I make.
   <img src="/images/materialui.svg" width="50" title="Material UI" alt="Material UI Icon"/>
   <img src="/images/tailwind.svg" width="50" title="Tailwind" alt="Tailwind Icon"/>
   <img src="/images/redux.svg" width="50" title="Redux" alt="Redux Icon"/>
-  <img src="/images/xcode.svg" width="50" title="XCode" alt="XCode Icon"/>
   <img src="/images/mysql.svg" width="50" title="Firebase" alt="Firebase Icon"/>
   <img src="/images/aws.svg" width="50" title="AWS" alt="AWS Icon"/>
   <img src="/images/python.svg" width="50" title="Python" alt="Python Icon"/>
   <img src="/images/reactquery.svg" width="50" title="React Query" alt="React Query Icon"/>
   <img src="/images/zustand.svg" width="50" title="Zustand" alt="Zustand Icon"/>
-  <img src="/images/Shadcn.svg" width="50" title="Shadcn" alt="Shadcn Icon"/>
+  <img src="/images/shadcn.svg" width="50" title="Shadcn" alt="Shadcn Icon"/>
 </div>
 
 <br>
